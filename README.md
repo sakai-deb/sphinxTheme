@@ -1,0 +1,4 @@
+sphinxTheme
+===========
+
+Original sphinx theme
