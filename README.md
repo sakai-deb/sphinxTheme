@@ -9,8 +9,9 @@ Anyone are permitted any usage, to use, to modify, to republish, etc.
 
 ### To be exact
 WTFPL 2.0
-<pre>
+
 -----------------------------------------------------------------------
+<pre>
 
             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                     Version 2, December 2004
@@ -26,5 +27,6 @@ WTFPL 2.0
 
   0. You just DO WHAT THE FUCK YOU WANT TO.
 
-------------------------------------------------------------------------
 </pre>
+------------------------------------------------------------------------
+
