@@ -1,7 +1,7 @@
 # Sphinx theme
 
-Sphinx ( http://sphinx.pocoo.org/ ) is a great tool for creating beautifull documentation.
-This repo. is for publishing my theme.
+Sphinx ( http://sphinx.pocoo.org/ ) is a great tool for creating beautifull documentation.  
+This is my sphinx theme.
 
 ## About Licence
 ### Simply stated
