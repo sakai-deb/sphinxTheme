@@ -23,6 +23,12 @@
 {% endblock sidebar1 %}
 {%- block sidebar2 %}
 <div id="sidebar">
+  <div id="recentpost">
+    {%- include recentpages.html %}
+  </div>
+  {%- include searchbox.html %}
+  {%- include relations.html %}
+  {%- include localtoc.html %}
   <div id="sidelinks">
     <h3>Links</h3>
     <ul>
@@ -30,8 +36,6 @@
       <li><a href="http://www.haskell.org/haskellwiki/Haskell">HaskellWiki</a></li>
       <li><a href="http://hackage.haskell.org/packages/hackage.html">hackageDB</a></li>
     </ul>
-  </div>
-  <div id="recentpost">
   </div>
 </div>
 {% endblock sidebar2 %}
